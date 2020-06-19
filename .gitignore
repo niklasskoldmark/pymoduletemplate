@@ -126,4 +126,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# local paths used for testing
+private/
+data/
+
 
