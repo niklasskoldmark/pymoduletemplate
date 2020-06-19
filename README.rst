@@ -1,9 +1,10 @@
 pymoduletemplate Module Repository
 ========================
 
-# create an empty repo on github with the project name
-# pull it , then add files from this
-# replace all instances of pymoduletemplate with the name of the project (including folders)
+# create an new repo on github with this as a template
+# pull it
+# replace all instances of pymoduletemplate with the name of the project (including the root folder and the subfolder named pymoduletemplate)
+# remove this section
 
 
 # Setup pipenv/venv
