@@ -1,3 +1,1 @@
-def get_answer():
-    """Get an answer."""
-    return True
+# contains the utility functions and objects of the module
