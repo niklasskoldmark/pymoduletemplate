@@ -8,8 +8,9 @@ import unittest
 class AdvancedTestSuite(unittest.TestCase):
     """Advanced test cases."""
 
-    def test_thoughts(self):
-        self.assertIsNone(pymoduletemplate.hmm())
+    # check that stuff exists
+    # def test_thoughts(self):
+    #     self.assertIsNone(pymoduletemplate."${Function-/Class-name}"())
 
 
 if __name__ == "__main__":
